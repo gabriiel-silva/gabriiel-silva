@@ -38,9 +38,11 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-610915204/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -48,6 +50,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gabriiel-silva/gabriiel-silva/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="420" src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif"  />
+</div>
 
 ###
