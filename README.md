@@ -1,4 +1,4 @@
-<h2 align="left">Dev. Full-Stack | Help Desk 🖥️</h2>
+<h2 align="left">Software Engineer | IT Support 🖥️</h2>
 
 ###
 
