@@ -30,8 +30,6 @@
 
   </div>
 
- 
-##
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=gabriiel-silva&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
