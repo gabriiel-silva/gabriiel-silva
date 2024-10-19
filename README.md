@@ -1,4 +1,4 @@
-<h2 align="left">Software Developer</h2>
+<h2 align="left">Software Developer 🖥️</h2>
 
 ###
 
