@@ -18,11 +18,8 @@
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,javascript,nodejs,nextjs,react,tailwind,materialui,python,django,flask,postman,docker,vercel,supabase,postgres" />
 </a>
-   <h1 style="display: inline-flex; align-items: center; margin: 0;">
-  Learning:
-  <a href="https://skillicons.dev" style="margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=java" style="width: 35px; height: 35px;"/>
-  </a>
+<h1 style="display: inline-flex; align-items: center; margin: 0;">
+
 </h1>
 
 
